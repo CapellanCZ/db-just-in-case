@@ -1,1 +1,2 @@
-# db-just-in-case
+###Note
+- guys, di ko pa sya natatry sa html
